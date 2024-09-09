@@ -18,7 +18,7 @@ This project is a **Simple Keylogger** implemented in Python. It records and log
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jibinjoseph22/simple-keylogger.git
+   git clone https://github.com/Jibinjoseph22/simple-keylogger.git
    ```
 
 2. Navigate into the project directory:
